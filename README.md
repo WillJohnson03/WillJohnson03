@@ -1,4 +1,4 @@
-[![Will's GitHub stats](https://github-readme-stats.vercel.app/api?username=WillJohnson03&hide=stars,issues&include_all_commits=true&count_private=true&show_icons=true&theme=react)](https://github.com/WillJohnson03)
+
 
 [![Will's Most Uses Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manliestben&layout=compact&theme=react)](https://github.com/WillJohnson03)
 
